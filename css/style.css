@@ -1,0 +1,129 @@
+*{
+    margin: 0%;
+    
+}
+.header{
+    overflow: hidden;
+ }
+.header_logo{
+    background-color: #BCCDE3;
+    height: 80px;
+    width: 30%;
+    text-align: center;
+    color: white;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_banner{
+    background-color: #CE9CAA;
+    height: 80px;
+    width: 70%;
+    text-align: center;
+    color: white;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header_bar{
+    background-color: #FF9285;
+    height: 80px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blocks{
+    overflow: hidden;
+}
+.left_blocks{
+     background-color: #CE9CAA;
+     height: 600px;
+     width: 25%;
+     text-align: center;
+     color: white;
+     float: left;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.center_blocks{
+     height: 600px;
+     width: 50%;
+     color: white;
+     float: left;
+     overflow: hidden;
+}
+.center_center_blocks{
+    background-color: #4185BD;
+     height: 150px;
+     width: 100%;
+     text-align: center;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.center_middle_blocks{
+     height: 300px;
+     width: 100%;
+     float: left;   
+       
+}
+.center_left_blocks{
+    background-color: #FF9285;
+     height: 300px;
+     width: 50%;
+     text-align: center;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     float: left;   
+}
+.center_right_blocks{
+    background-color: #49526D;
+     height: 300px;
+     width: 50%;
+     text-align: center;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     float: right;   
+
+}
+.module_contents{
+    background-color: #4185BD;
+     height: 150px;
+     width: 100%;
+     text-align: center;
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.right_block{
+    background-color: #BCCDE3;
+    height: 600px;
+    width: 25%;
+    text-align: center;
+    color: white;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: #49526D;
+    height: 100px;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
